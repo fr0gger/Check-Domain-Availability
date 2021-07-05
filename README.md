@@ -24,6 +24,9 @@ optional arguments:
 python3 checkdomain.py -d tot0000000crefvervcd.com
 [!] tot0000000crefvervcd.com is available!
 
+python3 checkdomain.py -d toto.com
+[+] toto.com already exist!
+
 python3 checkdomain.py -f domains.txt
 [+] boisehosting.net already exist!
 [+] fotoideaymedia.es already exist!
