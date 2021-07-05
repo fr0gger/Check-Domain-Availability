@@ -1,4 +1,4 @@
-# Check-Domain-Availability
+# Check Domain Availability
 This script can be use to verify if a domain is registered or not. 
 
 # Requirement
