@@ -33,4 +33,4 @@ python3 checkdomain.py -f domains.txt
 ```
 
 # Licence
-MIT
+[MIT](https://github.com/fr0gger/Check-Domain-Availability/blob/main/LICENSE)
