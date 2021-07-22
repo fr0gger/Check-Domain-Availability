@@ -39,8 +39,8 @@ def check_domain(domain):
 def main():
     # select arguments
     parser = argparse.ArgumentParser(description='checkDomain.py by Thomas Roccia')
-    parser.add_argument("-d", "--domain", help="Check single domain", required=False)
-    parser.add_argument("-f", "--file", help="Check domain list", required=False)
+    parser.add_argument("-d", "--domain", help="Check single domain", required=True)
+    parser.add_argument("-f", "--file", help="Check domain list", required=True)
     args = parser.parse_args()
 
     # handle ctrl+c
